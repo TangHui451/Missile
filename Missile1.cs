@@ -1,1 +1,1 @@
-private void m_Transform;
+private Transform m_Transform;
